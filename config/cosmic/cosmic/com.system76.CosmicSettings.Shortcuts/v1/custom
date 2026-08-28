@@ -1,0 +1,13 @@
+{
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "s",
+    ): System(Screenshot),
+    (
+        modifiers: [],
+        key: "Print",
+    ): Disable,
+}
